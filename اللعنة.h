@@ -1,0 +1,9 @@
+#define لو if
+#define آخر else
+#define مطبعة printf
+#define رقم int
+#define فارغ void
+#define يعود return
+#define رئيسي main
+#define معيار <stdio.h>
+#define مدخل scanf
